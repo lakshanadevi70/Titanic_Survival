@@ -7,20 +7,20 @@ Predict whether a passenger survived the Titanic disaster using machine learning
 This project predicts whether a Titanic passenger survived using machine learning.
 
 🛠 Tools & Technologies:
-Python
-Pandas
-scikit-learn (Logistic Regression, Random Forest)
-Matplotlib & Seaborn
-Google Colab / Jupyter Notebook
+1.Python
+2.Pandas
+3.scikit-learn (Logistic Regression, Random Forest)
+4.Matplotlib & Seaborn
+5.Google Colab / Jupyter Notebook
 
 📈 Key Analysis:
-Data cleaning and preprocessing
-Feature engineering
-Model training & evaluation
-Visualizations (survival rates, feature importance)
+1.Data cleaning and preprocessing
+2.Feature engineering
+3.Model training & evaluation
+4.Visualizations (survival rates, feature importance)
 
 📂 Dataset:
-Titanic dataset downloaded from Kaggle.
+* Titanic dataset downloaded from Kaggle.
 
 🎯 Learning Outcome:
 This project helped me understand real-world ML workflows including data loading, cleaning, visualization, model building, and interpreting results.
