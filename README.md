@@ -1,27 +1,32 @@
-🚢 Titanic Survival Prediction
-
-Project Goal: 
+#🚢 Titanic Survival Prediction
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+##Project Goal: 
 Predict whether a passenger survived the Titanic disaster using machine learning — specifically Logistic Regression and Random Forest classifiers — on the Kaggle Titanic dataset
+___________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📌 Project Overview:
+##📌 Project Overview:
 This project predicts whether a Titanic passenger survived using machine learning.
+______________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠 Tools & Technologies:
+##🛠 Tools & Technologies:
 1.Python
 2.Pandas
 3.scikit-learn (Logistic Regression, Random Forest)
 4.Matplotlib & Seaborn
 5.Google Colab / Jupyter Notebook
+________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📈 Key Analysis:
+##📈 Key Analysis:
 1.Data cleaning and preprocessing
 2.Feature engineering
 3.Model training & evaluation
 4.Visualizations (survival rates, feature importance)
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📂 Dataset:
+##📂 Dataset:
 * Titanic dataset downloaded from Kaggle.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🎯 Learning Outcome:
+##🎯 Learning Outcome:
 This project helped me understand real-world ML workflows including data loading, cleaning, visualization, model building, and interpreting results.
 
